@@ -1,0 +1,25 @@
+main
+	__CC2DW
+	setup
+		UART1_Init
+		Serial_println
+			UART1_Write
+	timer
+		int2double
+			NRM3232
+				RES032
+				SETFUN32
+				FIXSIGN32
+		Div_32x32_FP
+			SETFDZ32
+			RES032
+			SETFOV32
+			SETFUN32
+		double2int
+			SETIOV3224
+	send_Message
+		Serial_println
+			UART1_Write
+		Serial_print
+			UART1_Write
+		UART1_Write

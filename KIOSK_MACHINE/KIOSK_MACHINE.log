@@ -1,0 +1,13 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4550 -DL -O11111114 -fo4 -N"D:\MikroC\All_Files\KIOSK_MACHINE\KIOSK_MACHINE.mcppi" -SP"D:\MikroC\mikroC PRO for PIC\Defs\" -SP"D:\MikroC\mikroC PRO for PIC\uses\P18\" -SP"D:\MikroC\All_Files\KIOSK_MACHINE\" -IP"D:\MikroC\mikroC PRO for PIC\uses\P18\" "KIOSK_MACHINE.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_SoftUART.mcl" "__Lib_UART_c67.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	KIOSK_MACHINE.c
+warning: 19	1509	Generated baud rate is 9615 bps (error = 0.16 percent)	KIOSK_MACHINE.c
+diagnostics: 65	123	Compiled Successfully	KIOSK_MACHINE.c
+hint: 8	1164	Variable 'error' has been eliminated by optimizer	KIOSK_MACHINE.c
+diagnostics: 0	127	All files Compiled in 94 ms	 
+hint: 0	1144	Used RAM (bytes): 58 (3%)  Free RAM (bytes): 1969 (97%)	Used RAM (bytes): 58 (3%)  Free RAM (bytes): 1969 (97%)
+hint: 0	1144	Used ROM (bytes): 2228 (7%)  Free ROM (bytes): 30540 (93%)	Used ROM (bytes): 2228 (7%)  Free ROM (bytes): 30540 (93%)
+diagnostics: 0	125	Project Linked Successfully	KIOSK_MACHINE.mcppi
+diagnostics: 0	128	Linked in 15 ms	 
+diagnostics: 0	129	Project 'KIOSK_MACHINE.mcppi' completed: 265 ms	 
+diagnostics: 0	103	Finished successfully: 20 Feb 2023, 14:37:55	KIOSK_MACHINE.mcppi

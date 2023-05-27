@@ -1,0 +1,7 @@
+main
+	__CC2DW
+	UART1_Init
+	Serial_println
+		UART1_Write
+	Serial_print
+		UART1_Write

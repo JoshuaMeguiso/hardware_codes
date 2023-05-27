@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4550 -DL -O11111114 -fo4 -N"D:\MikroC\HARDWARE_CODES\SMART_LOCK\Smart_Lock.mcppi" -SP"D:\MikroC\mikroC PRO for PIC\Defs\" -SP"D:\MikroC\mikroC PRO for PIC\uses\P18\" -SP"D:\MikroC\HARDWARE_CODES\SMART_LOCK\" -IP"D:\MikroC\mikroC PRO for PIC\uses\P18\" "Smart_Lock.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	config.h
+diagnostics: 28	123	Compiled Successfully	Smart_Lock.c
+diagnostics: 0	127	All files Compiled in 78 ms	 
+hint: 0	1144	Used RAM (bytes): 0 (1%)  Free RAM (bytes): 2027 (99%)	Used RAM (bytes): 0 (1%)  Free RAM (bytes): 2027 (99%)
+hint: 0	1144	Used ROM (bytes): 84 (1%)  Free ROM (bytes): 32684 (99%)	Used ROM (bytes): 84 (1%)  Free ROM (bytes): 32684 (99%)
+diagnostics: 0	125	Project Linked Successfully	Smart_Lock.mcppi
+diagnostics: 0	128	Linked in 15 ms	 
+diagnostics: 0	129	Project 'Smart_Lock.mcppi' completed: 109 ms	 
+diagnostics: 0	103	Finished successfully: 05 May 2023, 00:11:13	Smart_Lock.mcppi

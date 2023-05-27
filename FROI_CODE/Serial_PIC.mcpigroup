@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\BILL_ACCEPTOR\MyProject.mcppi
+Project1=Serial_PIC.mcppi
+[ActiveProject]
+Index=0

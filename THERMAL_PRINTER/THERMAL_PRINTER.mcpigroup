@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=MyProject.mcppi
+Project1=THERMAL_PRINTER.mcppi
+[ActiveProject]
+Index=1

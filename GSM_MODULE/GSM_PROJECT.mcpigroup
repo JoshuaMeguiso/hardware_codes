@@ -1,0 +1,7 @@
+[PROJECTS]
+Count=3
+Project0=..\GSM_Module.mcppi
+Project1=..\MyProject.mcppi
+Project2=GSM.mcppi
+[ActiveProject]
+Index=2

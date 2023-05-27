@@ -1,0 +1,15 @@
+main
+	__CC2DW
+	INIT_PORTS
+	INIT_SOFT_UART
+		Soft_UART_Init
+			Get_Fosc_kHz
+			Mul_32x32_U
+			Div_32x32_S
+				SDIV3232L
+				COMFREM
+	UART1_Init
+	UART1_Data_Ready
+	UART1_Read
+	Soft_UART_Write
+		Delay_Cyc
